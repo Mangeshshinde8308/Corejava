@@ -6,6 +6,7 @@ public class Trial {
 		// TODO Auto-generated method stub
 		System.out.println("hello java");
 		System.out.println("first java program");
+		System.out.println("mangu here");
 
 	}
 
